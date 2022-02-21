@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{0B1CB0BC-F633-4B80-8897-DFBDBB9BCA63}|Default">
-  <MonoDevelop.Ide.ItemProperties.ClassesExercise1__Car FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesExercise1_Car/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.ClassesExercise1__Car PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesExercise1_Car/Car.cs">
     <Files>
-      <File FileName="ClassesExercise1_Car/Program.cs" Line="1" Column="4" />
+      <File FileName="ClassesExercise1_Car/Program.cs" Line="15" Column="15" />
+      <File FileName="ClassesExercise1_Car/Car.cs" Line="10" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ClassesExercise1_Car" expanded="True">
             <Node name="ClassesExercise1_Car" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Car.cs" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/bin/Debug/net5.0/ClassesExercise1_Car.deps.json
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/bin/Debug/net5.0/ClassesExercise1_Car.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/bin/Debug/net5.0/ClassesExercise1_Car.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/bin/Debug/net5.0/ClassesExercise1_Car.dll
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/bin/Debug/net5.0/ref/ClassesExercise1_Car.dll
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/bin/Debug/net5.0/ClassesExercise1_Car.pdb
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.dll
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ref/ClassesExercise1_Car.dll
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.pdb
+/Users/JonathanGilmer/Desktop/Repos/ClassesExercise1_Car/ClassesExercise1_Car/obj/Debug/net5.0/ClassesExercise1_Car.genruntimeconfig.cache
